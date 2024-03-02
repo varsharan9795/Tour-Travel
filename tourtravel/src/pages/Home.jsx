@@ -6,7 +6,7 @@ import { Bannerimg } from '../Components/Bannerimg/Bannerimg';
 import Poster from '../assets/images/bgImage.jpeg';
 
 import Blogs from './Blogs';
-import { Banner } from '../Components/Banner/bANNER.JSX';
+import { Banner } from '../Components/Banner/Banner.jsx';
 import Banglore from '../assets/images/banglore.jpeg';
 import { Testimonial } from '../Components/Testimonial/Testimonial';
 //import Poster2 from '../assets/images/shimla.jpeg';
