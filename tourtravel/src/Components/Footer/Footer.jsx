@@ -58,7 +58,7 @@ rounded-t-xl'>
             </div>
             <div className='flex gap-2 items-center mt-3'>
               < FaMobileAlt />
-              <p>+607223045</p>
+              <p>+91 6307223045</p>
             </div>
             {/* social icon */}
             <div className='flex items-center gap-3 mt-6'>
